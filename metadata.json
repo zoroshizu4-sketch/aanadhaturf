@@ -1,0 +1,6 @@
+{
+  "name": "Aanandha Sports Space - Coimbatore",
+  "description": "Premier floodlit multi-sport turf arena in Coimbatore for Box Cricket, Football, and Pickleball with real-time online slot booking and digital QR tickets.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

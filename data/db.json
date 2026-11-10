@@ -1,0 +1,96 @@
+{
+  "bookings": [
+    {
+      "id": "ASS-4490-CR",
+      "sportId": "cricket",
+      "sportName": "Box Cricket Arena",
+      "date": "2026-11-10",
+      "timeSlot": "20:00 - 21:00",
+      "startHour": 20,
+      "customerName": "Suresh Raina",
+      "phone": "9842512345",
+      "email": "",
+      "teamName": "Yellow Brigade",
+      "extraEquipment": [],
+      "totalAmount": 700,
+      "status": "Used",
+      "verificationCode": "VER-4490-CR-6ZO6O",
+      "createdAt": "2026-11-10T16:38:47.027Z",
+      "usedAt": "2026-11-10T16:38:56.220Z",
+      "checkInStaff": "Gate Security"
+    },
+    {
+      "id": "ASS-8812-CR",
+      "sportId": "cricket",
+      "sportName": "Box Cricket Arena",
+      "date": "2026-11-10",
+      "timeSlot": "19:00 - 20:00",
+      "startHour": 19,
+      "customerName": "Karthik Subramanian",
+      "phone": "9842145890",
+      "email": "karthik.sub@gmail.com",
+      "teamName": "Coimbatore Strikers",
+      "extraEquipment": [
+        "Stumps & Synthetic Ball",
+        "2 Bats Included"
+      ],
+      "totalAmount": 850,
+      "status": "Confirmed",
+      "verificationCode": "VER-8812-CR-COV",
+      "createdAt": "2026-11-10T12:38:35.925Z",
+      "notes": "Floodlit box cricket session"
+    },
+    {
+      "id": "ASS-7734-FB",
+      "sportId": "football",
+      "sportName": "5-a-Side Football Turf",
+      "date": "2026-11-10",
+      "timeSlot": "20:00 - 21:00",
+      "startHour": 20,
+      "customerName": "Aravind Raj",
+      "phone": "9790123456",
+      "email": "aravind.fc@gmail.com",
+      "teamName": "Aathupalam FC",
+      "extraEquipment": [
+        "Match Football (Size 5)",
+        "Bibs Set"
+      ],
+      "totalAmount": 850,
+      "status": "Confirmed",
+      "verificationCode": "VER-7734-FB-COV",
+      "createdAt": "2026-11-10T08:38:35.925Z",
+      "notes": "Regular league match"
+    },
+    {
+      "id": "ASS-5521-PB",
+      "sportId": "pickleball",
+      "sportName": "Pickleball Pro Court",
+      "date": "2026-11-10",
+      "timeSlot": "07:00 - 08:00",
+      "startHour": 7,
+      "customerName": "Dr. Vignesh Kumar",
+      "phone": "9443219870",
+      "email": "vignesh.sports@gmail.com",
+      "teamName": "Morning Smashers",
+      "extraEquipment": [
+        "4x Carbon Fiber Paddles",
+        "6x Outdoor Balls"
+      ],
+      "totalAmount": 500,
+      "status": "Used",
+      "usedAt": "2026-11-10T14:38:35.925Z",
+      "verificationCode": "VER-5521-PB-COV",
+      "createdAt": "2026-11-09T16:38:35.925Z",
+      "notes": "Morning bonus slot - checked in by gate staff"
+    }
+  ],
+  "blockedSlots": [],
+  "settings": {
+    "weekdayRate": 700,
+    "weekendRate": 850,
+    "morningBonusDiscount": 100,
+    "pickleballWeekdayRate": 600,
+    "pickleballWeekendRate": 750,
+    "adminPin": "9566"
+  }
+}
